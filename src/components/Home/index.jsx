@@ -9,8 +9,8 @@ import Loader from 'react-loaders';
 export default function Home() {
 
     const [letterClass, setLetterClass] = useState('text-animate');
-    const nameArray = ['T', 'e', 'n', 'z', 'i', 'n'];
-    const jobArray = ['w', 'e', 'b', ' ', 'd', 'e', 'v', 'e', 'l', 'o', 'p', 'e', 'r'];
+    const nameArray = 'Tenzin Lekden'.split('');
+    const jobArray = 'Sr. Software Engineer, Frontend'.split('');
     useEffect(() => {
         setTimeout(() => {
             return setLetterClass('text-animate-hover');
