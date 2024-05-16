@@ -1,7 +1,7 @@
 {
   "name": "my-porfolio",
   "version": "0.1.0",
-  "homepage": "https://tenlekdan.github.io/",
+  "homepage": "https://tenlekdan.github.io/mon-porfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.3.3",
